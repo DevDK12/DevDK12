@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Mern stack and DSA**
 
-- 💬 Ask me about **css, cpp, javascript**
+- 💬 Ask me about **React, NodeJS, javascript, DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
